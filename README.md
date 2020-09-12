@@ -10,9 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=StenleyDuFoster&show_icons=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=StenleyDuFoster&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/pin?username=StenleyDuFoster&repo=StenleyDuFoster)
-![](https://github-readme-stats.vercel.app/api/pin?username=StenleyDuFoster&repo=StenleyDuFoster)
-
 ## Contact me📪
 
 [Telegram](https://t.me/VutokElektrik)
