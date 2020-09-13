@@ -18,12 +18,15 @@
 ![https://kotlinlang.org](https://img.shields.io/badge/MVVM-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/MVP-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Firebase-red?style=flat)
-![https://kotlinlang.org](https://img.shields.io/badge/Rest%20Api-red?style=flat)
-![https://kotlinlang.org](https://img.shields.io/badge/Dagger2-red?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Retrofit-red?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Dagger-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Koin-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Data%20Dinding-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Google%20Api-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Realm-red?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Room-red?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Material%20Components-red?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Rx-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Room-red?style=flat)
 
 ## GitHub Stats
