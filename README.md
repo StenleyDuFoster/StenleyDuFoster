@@ -26,7 +26,7 @@
 ![https://kotlinlang.org](https://img.shields.io/badge/Realm-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Room-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Material%20Components-red?style=flat)
-![https://kotlinlang.org](https://img.shields.io/badge/Rx%20Java%20Kotlin%20Android%20Binding-red?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Rx%20(Java%20Kotlin%20Android%20Binding)-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Android%20Component-red?style=flat)
 
 ## GitHub Stats
