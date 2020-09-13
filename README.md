@@ -15,7 +15,16 @@
 ![https://kotlinlang.org](https://img.shields.io/badge/Python-blue?style=flat)
 
 ## Technology
-![https://kotlinlang.org](https://img.shields.io/badge/Python?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/MVVM-yellow?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/MVP-yellow?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Firebase-yellow?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Rest%20Api-yellow?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Dagger2-yellow?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Koin-yellow?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Data%20Dinding-yellow?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Google%20Api-yellow?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Realm-yellow?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Room-yellow?style=flat)
 
 ## GitHub Stats
 
