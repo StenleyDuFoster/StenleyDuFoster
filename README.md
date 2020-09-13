@@ -21,7 +21,7 @@
 ![https://kotlinlang.org](https://img.shields.io/badge/Retrofit-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Dagger-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Koin-red?style=flat)
-![https://kotlinlang.org](https://img.shields.io/badge/Data%20Dinding-red?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Data%20Binding-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Google%20Api-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Realm-red?style=flat)
 ![https://kotlinlang.org](https://img.shields.io/badge/Room-red?style=flat)
