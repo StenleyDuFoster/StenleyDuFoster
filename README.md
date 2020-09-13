@@ -15,7 +15,7 @@
 ![https://kotlinlang.org](https://img.shields.io/badge/Python-blue?style=flat)
 
 ## Technology
-
+![https://kotlinlang.org](https://img.shields.io/badge/Python?style=flat)
 
 ## GitHub Stats
 
