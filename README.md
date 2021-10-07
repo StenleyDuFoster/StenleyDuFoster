@@ -36,7 +36,7 @@
 
 ## Now work
 
-[![Five](https://img.shields.io/badge/Lampa-yellow?style=flat)](https://fivesysdev.com/)
+[![Five](https://img.shields.io/badge/Five-blue?style=flat)](https://fivesysdev.com/)
 
 ## Previous work
 
