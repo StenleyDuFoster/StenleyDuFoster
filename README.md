@@ -34,15 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=StenleyDuFoster&show_icons=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=StenleyDuFoster&show_icons=true)
 
-## Now work
-
-[![Team international](https://img.shields.io/badge/Team-blue?style=flat)](https://www.teaminternational.com/)
-
-## Previous work
-
-[![Lampa](https://img.shields.io/badge/Lampa-yellow?style=flat)](https://lampalampa.net/)
-[![Five](https://img.shields.io/badge/Five-blue?style=flat)](https://fivesysdev.com/)
-
 ## Contact me📪
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VutokElektrik)
